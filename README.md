@@ -11,7 +11,9 @@ Cópialo tal cual, ya con tu logo ultra instinto:
 
 
 > Muestra rutas de Herboristería y Minería en el mapa con contadores en tiempo real.
-
+![Version](https://img.shields.io/badge/Version-1.0%20💵%20Naerzone-ffff00)
+![Interface](https://img.shields.io/badge/Interface-30300%20WotLK-0078D4)
+![Server](https://img.shields.io/badge/Server-Naerzone%20EsMX%2FptBR-red)
 📋 Info
 
 - **Autor:** SethNubth
