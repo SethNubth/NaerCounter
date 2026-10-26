@@ -506,4 +506,24 @@ function UI:ShowObjectiveDialog(nodeName, category)
         whileDead = true,
         hideOnEscape = true,
     }
-    St
+    Stfunction UI:ShowObjectiveDialog(nodeName, category)
+    StaticPopupDialogs["NAERCOUNTER_OBJECTIVE"] = {
+        text = "Objetivo para %s:",
+        button1 = "Guardar",
+        button2 = "Cancelar",
+        hasEditBox = 1,
+        OnAccept = function(self)
+            local num = tonumber(self.editBox:GetText())
+            if num and NS.db then
+                NS.db.objectives = NS.db.objectives or {}
+                NS.db.objectives[nodeName] = num
+                UI:Refresh()
+            end
+        end,
+        OnShow = function(self) self.editBox:SetText("") self.editBox:SetFocus() end,
+        timeout = 0,
+        whileDead = true,
+        hideOnEscape = true,
+    }
+    StaticPopup_Show("NAERCOUNTER_OBJECTIVE", nodeName)
+end
