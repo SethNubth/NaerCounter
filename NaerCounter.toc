@@ -1,11 +1,8 @@
 ## Interface: 30300
 ## Title: |cFF00CCFFNaerCounter|r |cFF00FF00[Naerzone]|r
-## Notes: Rutas de farmeo - Rastrea hierbas y menas en minimapa - WotLK 3.3.5a
-## Notes-esMX: |cFF00CCFFRastrea hierbas y menas|r - Contador para Naerzone WotLK 3.3.5a
+## Notes: Rutas de farmeo - Rastrea hierbas y menas - WotLK 3.3.5a
 ## Author: SethNubth
-## Version: 1.0.1-Naerzone
-## X-Category: Map
-## X-Server: Naerzone esMX WotLK 3.3.5a Build 30300
+## Version: 1.1.0-ID-Full
 ## SavedVariables: NaerCounterDB
 ## SavedVariablesPerCharacter: NaerCounterCharDB
 
