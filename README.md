@@ -1,8 +1,7 @@
 # NaerCounter
-Addons WoLK 3.3.5 Naerzone profesiones 
-¡Entendido GOD! Aquí tienes el README PRO definitivo para *SethNubth* 🔵
+Addons WoLK 3.3.5 Naerzone profesional Herboristería Minería 🔵
 
-Cópialo tal cual, ya con tu logo ultra instinto:
+
 💎 NaerCounter - Ultra Instinct Blue
 
 **Addon de rutas de farmeo optimizado para WoW Wrath of the Lich King 3.3.5a**
@@ -57,9 +56,7 @@ Este addon fue convertido manualmente a 3.3.5a esMX:
 - Reescritura de `NaerCounter.toc` a formato 30300
 - Normalización de texturas a minúsculas
 - Fix de rutas `Interface\AddOns\NaerCounter\`
-- Limpieza de archivos no compatibles (addon-screen, logo .pdn)
-
-Hecho desde celular con internet de patata 🛜 pero con aura de Ultra Instinto.
+- Limpieza de archivos no compatibles en Naerzone 
 
 📸 Screenshots
 
