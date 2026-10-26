@@ -3,16 +3,16 @@
 ## Notes: Rutas de farmeo - Rastrea hierbas y menas en minimapa - WotLK 3.3.5a
 ## Notes-esMX: |cFF00CCFFRastrea hierbas y menas|r - Contador para Naerzone WotLK 3.3.5a
 ## Author: SethNubth
-## Version: 1.0.0-Naerzone
+## Version: 1.0.1-Naerzone
 ## X-Category: Map
 ## X-Server: Naerzone esMX WotLK 3.3.5a Build 30300
 ## SavedVariables: NaerCounterDB
 ## SavedVariablesPerCharacter: NaerCounterCharDB
 
-Counter.lua
 FarmingData.lua
 GuideData.lua
 RoutesData.lua
 Tracking.lua
+Counter.lua
 Routes.lua
 UI.lua
