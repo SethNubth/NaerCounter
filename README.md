@@ -7,7 +7,8 @@ Cópialo tal cual, ya con tu logo ultra instinto:
 
 **Addon de rutas de farmeo optimizado para WoW Wrath of the Lich King 3.3.5a**
 
-![NaerCounter Logo](logo.png)
+<img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/50badd45-81f3-470a-b157-d4998c692aa1" />
+
 
 > Muestra rutas de Herboristería y Minería en el mapa con contadores en tiempo real.
 
@@ -62,10 +63,10 @@ Las rutas se muestran en azul brillante sobre el mapa del mundo.
 
 💙 Créditos
 
-- Base: NodeCounter
+- Base:  Modificado por SethNubth original de NodeCounter
 - Conversión & Port 3.3.5a: **SethNubth**
 - Server: Naerzone
 
 ---
 **NaerCounter - Farmea como un Dios.**
-Guárdalo como `README.md` y pon la imagen que te hice como `logo.png` en la misma carpeta.
+
