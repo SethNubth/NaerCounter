@@ -1,19 +1,18 @@
 ## Interface: 30300
 ## Title: |cFF00CCFFNaerCounter|r |cFF00FF00[Naerzone]|r
-## Notes: Track herbs & ores on minimap, count harvests by type/zone, set objectives - WotLK 3.3.5a Edition
-## Notes-esES: |cFF00CCFFRastrea hierbas y menas|r - Contador para Naerzone WotLK
-## Notes-esMX: |cFF00CCFFRastrea hierbas y menas|r - Contador para Naerzone WotLK
-## Author: |cFFFFD700AUCASGIA|r - Naerzone Edition
-## Version: |cFF00CCFF1.0.0|r-Naerzone
-## IconTexture: Interface\AddOns\NaerCounter\textures\icon.tga
+## Notes: Rutas de farmeo - Rastrea hierbas y menas en minimapa - WotLK 3.3.5a
+## Notes-esMX: |cFF00CCFFRastrea hierbas y menas|r - Contador para Naerzone WotLK 3.3.5a
+## Author: SethNubth
+## Version: 1.0.0-Naerzone
+## X-Category: Map
+## X-Server: Naerzone esMX WotLK 3.3.5a Build 30300
 ## SavedVariables: NaerCounterDB
 ## SavedVariablesPerCharacter: NaerCounterCharDB
-## OptionalDeps: ElvUI
 
-Core.lua
-RoutesData.lua
-FarmingData.lua
-Tracking.lua
 Counter.lua
+FarmingData.lua
+GuideData.lua
+RoutesData.lua
+Tracking.lua
 Routes.lua
 UI.lua
